@@ -1,0 +1,4 @@
+git is distrabution version control system ,
+ Hear we can track the files using commit id's
+ multiple developers connect to the server at a time
+
